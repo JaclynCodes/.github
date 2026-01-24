@@ -7,6 +7,8 @@ Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 </div>
 
 ---
+![GitHub contribution snake](https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg)
+---
 
 ## 🚀 Featured Project
 
