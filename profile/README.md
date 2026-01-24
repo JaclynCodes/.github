@@ -1,4 +1,4 @@
-🌘 Mystic Misfit | @JaclynCodes**  
+🌘 Mystic Misfit | @JaclynCodes  
 Hi, I'm Jaclyn :)
 
 <div align="center">
