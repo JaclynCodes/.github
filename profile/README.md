@@ -1,6 +1,6 @@
-🪩
+ 🪩
 
-       Hi, I'm Jaclyn! :)
+ Hi, I'm Jaclyn! :)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
@@ -32,8 +32,6 @@ I am currently the lead developer of **Symphonic-Joules**, an open-source framew
 
  📫 Connect with the Author 
  -GitHub: [@JaclynCodes](https://github.com/JaclynCodes)  
- -Discussions: Participate in [Symphonic-Joules Discussions]  
-
 
 > <div align="center">
 > <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
