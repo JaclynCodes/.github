@@ -34,7 +34,7 @@
 > - 🤖 Open Source Governance: Maintaining secure, transparent contribution and review practices.  
 >
 > **📜 Technical Playbooks**  
-> - *Git History Rewrite Playbook:* A guide for identity and historical clarity in repositories.  
+> - *Git History Rewrite Playbook:* A guide for identity and historical clarity in repositories.  I occasionally document high-risk procedures to help the community, such as my **[Git History Rewrite Playbook](https://github.com/JaclynCodes/openhands-agent/blob/main/docs/history-rewrites.md)** for identity standardization.
 > - *Ritual Initiation Guide:* Mapping CI/CD automation to modular development cycles.  
 >
 > **🌌 Sovereign Stats**  
@@ -97,9 +97,6 @@ I am currently the lead developer of **Symphonic-Joules**, an open-source framew
 I occasionally document high-risk procedures to help the community, such as my **[Git History Rewrite Playbook](https://github.com/JaclynCodes/openhands-agent/blob/main/docs/history-rewrites.md)** for identity standardization.
 
 ---
-
-## 📫 Connect with Me
-- **GitHub**: [@JaclynCodes](https://github.com/JaclynCodes)
 - **Discussions**: Join the conversation in the [Symphonic-Joules Discussions](https://github.com/JaclynCodes/Symphonic-Joules/discussions)
 
 ---
