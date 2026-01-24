@@ -49,7 +49,7 @@
 > **📫 Connect with the Misfit**  
 > - GitHub: [@JaclynCodes](https://github.com/JaclynCodes)  
 > - Discussions: Participate in [Symphonic-Joules Discussions]  
-> - Current Mode: *Host Mode (Communal Clarity)*  
+- **Discussions**: Join the conversation in the [Symphonic-Joules Discussions](https://github.com/JaclynCodes/Symphonic-Joules/discussions)
 >
 > <div align="center">
 > <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
@@ -97,7 +97,7 @@ I am currently the lead developer of **Symphonic-Joules**, an open-source framew
 I occasionally document high-risk procedures to help the community, such as my **[Git History Rewrite Playbook](https://github.com/JaclynCodes/openhands-agent/blob/main/docs/history-rewrites.md)** for identity standardization.
 
 ---
-- **Discussions**: Join the conversation in the [Symphonic-Joules Discussions](https://github.com/JaclynCodes/Symphonic-Joules/discussions)
+
 
 ---
 
