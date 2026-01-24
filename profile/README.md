@@ -1,6 +1,10 @@
 
 hi, Im Jaclyn :) 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
+</div>
+
 ## 🚀 Featured Project: [Symphonic-Joules](https://github.com/JaclynCodes/Symphonic-Joules)
 
 I am currently the lead developer of **Symphonic-Joules**, an open-source framework designed to calculate the energetic properties of sound and the sonic properties of physical systems.
@@ -43,8 +47,6 @@ I occasionally document high-risk procedures to help the community, such as my *
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
-</div>
+
 
 
