@@ -1,6 +1,4 @@
-.github/profile/README.md
-
-🪩
+🪩🌈
 
 Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 
