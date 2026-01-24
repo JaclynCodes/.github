@@ -1,4 +1,4 @@
-github/profile/README.md
+.github/profile/README.md
 
 🪩
 
@@ -11,11 +11,13 @@ Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 ---
 
 ## 🚀 Featured Project
+
 **[Symphonic‑Joules](https://github.com/JaclynCodes/Symphonic-Joules)**  
 An open‑source framework that calculates the energetic properties of sound and the sonic properties of physical systems.
 
 **Status:** v0.1.0 (Foundation Phase)  
 **Focus:**
+
 - 🎼 Acoustic Energy — how sound waves carry and transform energy  
 - ⚡ Physics‑Informed Computing — kinetic & potential models for audio  
 - 🔬 Signal Processing — frequency‑domain transformations for insight  
@@ -26,6 +28,7 @@ An open‑source framework that calculates the energetic properties of sound and
 ---
 
 ## 🧬 Technical Toolkit
+
 | Category | Skills & Tools |
 |---------|----------------|
 | Languages | Python (3.8+), TypeScript, YAML |
@@ -37,12 +40,14 @@ An open‑source framework that calculates the energetic properties of sound and
 ---
 
 ## 📜 Technical Playbooks
+
 - **Git History Rewrite Playbook** — identity & historical clarity  
 - **Ritual Initiation Guide** — CI/CD automation mapped to modular cycles  
 
 ---
 
 ## 📫 Connect
+
 - GitHub: [@JaclynCodes](https://github.com/JaclynCodes)
 
 ---
