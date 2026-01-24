@@ -1,9 +1,6 @@
 
 hi, Im Jaclyn :) 
 
-I'm a software engineer and researcher dedicated to exploring the intersection of **audio processing** and **physics-based computations**. My work focuses on building tools that bridge the gap between acoustics and energy systems, making complex scientific data more accessible and actionable.
----
-
 ## 🚀 Featured Project: [Symphonic-Joules](https://github.com/JaclynCodes/Symphonic-Joules)
 
 I am currently the lead developer of **Symphonic-Joules**, an open-source framework designed to calculate the energetic properties of sound and the sonic properties of physical systems.
