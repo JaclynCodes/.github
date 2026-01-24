@@ -8,13 +8,13 @@
 
  🧬Technical Toolkit 
 
-> | Category | Skills & Tools |  
-> |-----------|----------------|  
-> | Languages | Python (3.8+), TypeScript, YAML |  
-> | Scientific Audio | Librosa, Pydub, Signal Processing, Acoustics |  
-> | Physics & Math | Kinematics, Energy Flow Analysis, Computational Physics |  
-> | DevOps & CI/CD | GitHub Actions, Docker, Git History Standardization |  
-> | Testing | Pytest, Workflow Validation, Coverage Analysis |  
+ | Category | Skills & Tools |  
+ |-----------|----------------|  
+ | Languages | Python (3.8+), TypeScript, YAML |  
+ | Scientific Audio | Librosa, Pydub, Signal Processing, Acoustics |  
+ | Physics & Math | Kinematics, Energy Flow Analysis, Computational Physics |  
+ | DevOps & CI/CD | GitHub Actions, Docker, Git History Standardization |  
+ | Testing | Pytest, Workflow Validation, Coverage Analysis |  
 
 🚀 Featured Project: [Symphonic-Joules](https://github.com/JaclynCodes/Symphonic-Joules)
 
