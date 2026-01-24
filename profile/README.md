@@ -1,44 +1,7 @@
-🌘 Mystic Misfit | JaclynCodes
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:2d3436,100:6c5ce7%26height%3D220%26section%3Dheader%26text%3DMYSTIC%2520MISFIT%26fontSize%3D80%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
 
+hi, Im Jaclyn :) 
 
-<!-- Core Identity -->
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mystic%2520Misfit-Aetherial%2520Engineer-ff69b4%3Fstyle%3Dfor-the-badge%26logo%3Dghostery%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Soft%2520Systems-Ritual%2520Logic-00bcd4%3Fstyle%3Dfor-the-badge%26logo%3Ddata-canals%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Compost%20Logic-Error→Substrate-795548?style=for-the-badge&logo=seedly&logoColor=white" />
-</p>
-<!-- Contribution Style -->
-<p align="center">
-<img src="https://img.shields.io/badge/Stewardship-Collaborative%20Re‑Emergence-4caf50?style=flat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Legibility-Systems%2520Made%2520Readable-3f51b5%3Fstyle%3Dflat-square" />
-<img src="https://img.shields.io/badge/Mythic%20Engineering-Metaphor→Mechanism-673ab7?style=flat-square" />
-</p>
-</div>
-🌌 Sovereign Stats
-| Metric | Status | Signature |
-|---|---|---|
-| Stars |  | Light captured in the void. |
-| Commits |  | Ritual iterations. |
-| PRs |  | Constructive collisions. |
-| Grade |  | High-fidelity misfit. |
-🛠 The Toolkit (Void Mode)
-const Misfit = {
-  paradigm: "Acoustic Energy + Ritual Logic",
-  tools: ["Python", "TypeScript", "Librosa", "Aether"],
-  objective: "Turning noise into substrate."
-};
-
-<div align="right">
-<i>"Where sound meets science, harmony meets energy."</i>
-</div>
-
-
-*"Where sound meets science, harmony meets energy."*
-
-I am a software engineer and researcher dedicated to exploring the intersection of **audio processing** and **physics-based computations**. My work focuses on building tools that bridge the gap between acoustics and energy systems, making complex scientific data more accessible and actionable.
-
+I'm a software engineer and researcher dedicated to exploring the intersection of **audio processing** and **physics-based computations**. My work focuses on building tools that bridge the gap between acoustics and energy systems, making complex scientific data more accessible and actionable.
 ---
 
 ## 🚀 Featured Project: [Symphonic-Joules](https://github.com/JaclynCodes/Symphonic-Joules)
