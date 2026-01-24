@@ -1,22 +1,11 @@
 🌘 Mystic Misfit | @JaclynCodes**  
-> *“Hi, I'm Jaclyn :)”*  
->
-> I’m an **Aetherial Engineer and Lorecrafter** exploring the intersection of **acoustic energy** and **ritual logic**. My focus is on **Computational Ecology**—designing systems that treat data as fluid and errors as fertile ground for regeneration.  
->
-> **🚀 Featured Project: Symphonic-Joules**  
-> *Lead Developer | v0.1.0 (Foundation Phase)*  
-> Symphonic-Joules is an open-source framework for calculating the **energetic properties of sound** and **sonic behavior of physical systems**. It serves as the core mechanism in my broader ecosystem.  
->
-> - 🎼 **Acoustic Energy:** Modeled transformations in how sound carries and converts energy.  
-> - ⚡ **Physics-Informed Computing:** Embedding kinetic and potential energy forms into audio signal computation.  
-> - 🔬 **Signal Processing:** Implementing FFT/STFT transformations for scientific and creative exploration.  
->
-------
+Hi, I'm Jaclyn :)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
 </div>
 
-> **🧬 Technical Toolkit (Void Stack)**  
+ **🧬 Technical Toolkit (Void Stack)**  
 >
 > | Category | Skills & Tools |  
 > |-----------|----------------|  
@@ -30,17 +19,17 @@
 
 I am currently the lead developer of **Symphonic-Joules**, an open-source framework designed to calculate the energetic properties of sound and the sonic properties of physical systems.
 
-- **Status:** v0.1.0 (Foundation Phase)
+- Status: v0.1.0 (Foundation Phase)
 - **Focus:** 
   - 🎼 **Acoustic Energy:** Analyzing how sound waves carry and transform energy.
   - ⚡ **Physics-Informed Computing:** Implementing kinetic and potential energy transformations into audio signals.
   - 🔬 **Signal Processing:** Developing frequency-domain transformations for scientific insight.intaining secure, transparent contribution and review practices.  
 >
-> **📜 Technical Playbooks**  
+> 📜 Technical Playbooks
 > - *Git History Rewrite Playbook:* A guide for identity and historical clarity in repositories.  I occasionally document high-risk procedures to help the community, such as my **[Git History Rewrite Playbook](https://github.com/JaclynCodes/openhands-agent/blob/main/docs/history-rewrites.md)** for identity standardization.
 > - *Ritual Initiation Guide:* Mapping CI/CD automation to modular development cycles.  
 >
-> **🌌 Sovereign Stats**  
+> 🌌 Sovereign Stats
 >
 > | Metric | Status | Signature |  
 > |--------|---------|------------|  
