@@ -13,6 +13,11 @@
 > - ⚡ **Physics-Informed Computing:** Embedding kinetic and potential energy forms into audio signal computation.  
 > - 🔬 **Signal Processing:** Implementing FFT/STFT transformations for scientific and creative exploration.  
 >
+------
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
+</div>
+
 > **🧬 Technical Toolkit (Void Stack)**  
 >
 > | Category | Skills & Tools |  
@@ -67,10 +72,7 @@ I am currently the lead developer of **Symphonic-Joules**, an open-source framew
   - ⚡ **Physics-Informed Computing:** Implementing kinetic and potential energy transformations into audio signals.
   - 🔬 **Signal Processing:** Developing frequency-domain transformations for scientific insight.
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
-</div>
+
 
 ## 🛠️ Technical Toolkit
 
