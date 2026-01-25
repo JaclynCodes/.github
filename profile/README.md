@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/shares/pages/jzQwUtj6L8h7jZX6T8jBv.png" alt="Description">
-</p>
-<svg width="1000" height="100" viewBox="0 0 1000 100" fill="none" xmlns="http://www.w3.org/2000/svg"> <rect width="1000" height="100" fill="#0D0D0F" /> <ellipse cx="150" cy="50" rx="120" ry="24" fill="#7C4DFF" fill-opacity="0.7" /> <ellipse cx="500" cy="50" rx="420" ry="30" fill="#00BCD4" fill-opacity="0.15" /> <ellipse cx="850" cy="50" rx="120" ry="24" fill="#7A5A43" fill-opacity="0.7" /> <text x="50%" y="58%" fill="#F3F2EE" alignment-baseline="middle" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="2.2em" letter-spacing="0.08em"
+🪩🌈
 
+Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
+</div>
 
-weave • emerge • attune
-
-</text> </svg>
+---
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -74,3 +73,4 @@ An open‑source framework that calculates the energetic properties of sound and
   <br/>
   <i>"Where sound meets science, harmony meets energy."</i>
 </div>
+
