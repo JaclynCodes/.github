@@ -1,5 +1,5 @@
      
-         Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
+    Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
