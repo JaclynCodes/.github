@@ -64,7 +64,15 @@ An open‑source framework that calculates the energetic properties of sound and
 - GitHub: [@JaclynCodes](https://github.com/JaclynCodes)
 
 ---
-
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/669727425142521042/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+---
 <div align="center">
   <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Sovereign-6c5ce7?style=for-the-badge"/>
