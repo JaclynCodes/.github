@@ -1,0 +1,1 @@
+![Loom Status](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=24&letterSpacing=2px&pause=1000&color=00BCD4&center=true&vCenter=true&width=1000&lines=weave+•+emerge+•+attune;analyzing+social+tension...;detecting+infrastructure+snaps;optimizing+the+defense+fabric)
