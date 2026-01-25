@@ -1,19 +1,6 @@
      
     Hi, I’m Jaclyn — Mystic Misfit & Aetherial Engineer.
 
----
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/JaclynCodes"
-    width="600"
-    height="120"
-  />
-</a>
-
-
   ---
 
 <div align="center">
@@ -79,14 +66,15 @@ An open‑source framework that calculates the energetic properties of sound and
 - GitHub: [@JaclynCodes](https://github.com/JaclynCodes)
 
 ---
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/669727425142521042/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/JaclynCodes"
+    width="600"
+    height="120"
+  />
+</a>
+
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
