@@ -4,7 +4,7 @@
   ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
+  <img src="f18130a9416032fe5a969d24ca927c24f58c1ba1username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
 </div>
 
 ---
