@@ -1,4 +1,13 @@
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/JaclynCodes"
+    width="600"
+    height="120"
+  />
+</a>
+
+---
 
 ## 🚀 Featured Project
 
@@ -42,15 +51,7 @@ An open‑source framework that calculates the energetic properties of sound and
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/JaclynCodes"
-    width="600"
-    height="120"
-  />
-</a>
 
----
 <div align="center">
   <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Sovereign-6c5ce7?style=for-the-badge"/>
