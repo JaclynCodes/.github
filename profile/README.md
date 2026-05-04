@@ -1,29 +1,4 @@
-     
 
-
-  ---
-
-<div align="center">
-  <img src="f18130a9416032fe5a969d24ca927c24f58c1ba1username=JaclynCodes&show_icons=true&theme=tokyonight" alt="Jaclyn's GitHub Stats" />
-</div>
-
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
 
 ## 🚀 Featured Project
 
