@@ -1,11 +1,9 @@
-
-    href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/JaclynCodes"
-    width="600"
-    height="120"
+  src="https://render.gitanimals.org/lines/JaclynCodes"
+  width="600"
+  height="120"
     
-
 ---
 
 ## 🚀 Featured Project
