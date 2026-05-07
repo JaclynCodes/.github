@@ -4,7 +4,6 @@
   width="600"
   height="120" 
   img>
----
 
 ## 🚀 Featured Project
 
