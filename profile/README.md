@@ -2,8 +2,8 @@
   <img
   src="https://render.gitanimals.org/lines/JaclynCodes"
   width="600"
-  height="120"
-    
+  height="120" 
+  img>
 ---
 
 ## 🚀 Featured Project
