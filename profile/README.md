@@ -56,4 +56,4 @@ An open‑source framework that calculates the energetic properties of sound and
   <br/>
   <i>"Where sound meets science, harmony meets energy."</i>
 </div>
-a>
+
