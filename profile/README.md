@@ -5,6 +5,7 @@
   height="300"
 />
 
+![Badge](https://img.shields.io/badge/Mystic%20Misfit-%F0%9F%8C%99-ffcfe7?style=for-the-badge)
 
 ## 🚀 Featured Project
 
