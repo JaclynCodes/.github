@@ -55,4 +55,10 @@ An open‑source framework that calculates the energetic properties of sound and
   <br/>
   <i>"Where sound meets science, harmony meets energy."</i>
 </div>
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JaclynCodes"
+  width="600"
+  height="300"
+/>
+</a>
