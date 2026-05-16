@@ -9,9 +9,9 @@
 
 ---
 
-🎼🔬 Jaclyn Codes
+###🎼🔬 Jaclyn Codes
 
-Where physics meets sound, and engineering meets imagination.
+***Where physics meets sound, and engineering meets imagination.***
 
 <p align="center">
 
