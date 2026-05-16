@@ -1,3 +1,18 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JaclynCodes"
+  width="600"
+  height="300"
+/>
+
+
+
+---
+
+🎼🔬 Jaclyn Codes
+
+Where physics meets sound, and engineering meets imagination.
+
 <p align="center">
 
   <!-- Identity -->
@@ -14,57 +29,73 @@
 
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JaclynCodes&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/JaclynCodes"
-  width="600"
-  height="300"
-/>
+---
+
+🌟 Featured Project — Symphonic‑Joules
+
+Symphonic‑Joules
+A research‑driven framework exploring the energetic properties of sound and the sonic signatures of physical systems.
+
+Status: v0.1.0 — Foundation Phase
+Domains of Inquiry:
+
+• 🎼 Acoustic Energy — modeling how sound waves carry, store, and transform energy
+• ⚡ Physics‑Informed Computing — kinetic & potential energy models for audio systems
+• 🔬 Signal Processing — spectral transformations, resonance mapping, and frequency analysis
+• 🧩 Computational Creativity — bridging scientific rigor with artistic intuition
 
 
-
-## 🚀 Featured Project
-
-**[Symphonic‑Joules](https://github.com/JaclynCodes/Symphonic-Joules)**  
-An open‑source framework that calculates the energetic properties of sound and the sonic properties of physical systems.
-
-**Status:** v0.1.0 (Foundation Phase)  
-**Focus:**
-
-- 🎼 Acoustic Energy — how sound waves carry and transform energy  
-- ⚡ Physics‑Informed Computing — kinetic & potential models for audio  
-- 🔬 Signal Processing — frequency‑domain transformations for insight  
-
-👉 **Project hub / contributor portal:**  
-**[Symphonic‑Joules Project File](https://copilot.microsoft.com/shares/pages/Cui9qfeT2qNAPpadJ7TMU)**
+👉 Contributor Portal:
+Symphonic‑Joules Project File
 
 ---
 
-## 🧬 Technical Toolkit
+🧑‍🔬🎨 About Me
 
-| Category | Skills & Tools |
-|---------|----------------|
-| Languages | Python (3.8+), TypeScript, YAML |
-| Scientific Audio | Librosa, Pydub, Signal Processing, Acoustics |
-| Physics & Math | Kinematics, Energy Flow Analysis, Computational Physics |
-| DevOps & CI/CD | GitHub Actions, Docker, Git History Standardization |
-| Testing | Pytest, Workflow Validation, Coverage Analysis |
+I’m Jaclyn — a systems thinker, sound‑physics explorer, and creative technologist.
+My work lives at the intersection of energy, acoustics, computation, and meaning‑making.
 
----
+I’m drawn to projects where:
 
-## 📜 Technical Playbooks
+• physics becomes expressive — energy, motion, and resonance as creative mediums
+• sound becomes structural — vibration as information, insight, and architecture
+• systems become soft — tools that support clarity, autonomy, and grounded cognition
+• engineering becomes poetic — precision with personality, rigor with imagination
 
-- **Git History Rewrite Playbook** — identity & historical clarity  
-- **Ritual Initiation Guide** — CI/CD automation mapped to modular cycles  
 
----
+I build frameworks, rituals, and tools that help people (and myself) understand complexity through pattern, sensation, and story.
 
-## 📫 Connect
-
-- GitHub: [@JaclynCodes](https://github.com/JaclynCodes)
+Outside of code, I’m usually mapping ideas, designing cognitive tools, or exploring how humans make sense of the world through vibration, rhythm, and structure.
 
 ---
 
-  <i>"Where sound meets science, harmony meets energy."</i>
-</div>
+🧬 Technical Toolkit
 
+Domain	Tools & Skills	
+Languages	Python (3.8+), TypeScript, YAML	
+Scientific Audio	Librosa, Pydub, FFTs, spectral analysis, acoustic modeling	
+Physics & Math	Kinematics, energy flow, wave mechanics, computational physics	
+DevOps & CI/CD	GitHub Actions, Docker, reproducible environments	
+Testing	Pytest, coverage analysis, workflow validation	
+
+
+---
+
+📚 Research & Playbooks
+
+• Git History Rewrite Playbook — identity clarity, clean lineage, reproducible evolution
+• Ritual Initiation Guide — CI/CD mapped to modular cycles
+• Energetic Audio Notes — early sketches on sound‑energy relationships
+• Spectral Cartography — mapping frequency landscapes like topographic terrain
+
+
+---
+
+🌐 Connect & Follow the Work
+
+I share different facets of my work across spaces — research notes, sound‑physics experiments, system‑design sketches, and the occasional mythic‑misfit spark.
+
+
+<i>“Every system has a rhythm. Every rhythm has a story.”</i>
+
+---
