@@ -5,7 +5,7 @@
   height="300"
 />
 
-![Badge](https://img.shields.io/badge/Mystic%20Misfit-%F0%9F%8C%99-ffcfe7?style=for-the-badge)
+
 
 ## 🚀 Featured Project
 
@@ -51,7 +51,7 @@ An open‑source framework that calculates the energetic properties of sound and
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mystic%20Misfit-Aetherial%20Engineer-ff69b4?style=for-the-badge"/>
+![Badge](https://img.shields.io/badge/Mystic%20Misfit-%F0%9F%8C%99-ffcfe7?style=for-the-badge)
   <img src="https://img.shields.io/badge/Status-Sovereign-6c5ce7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mode-Soil-795548?style=for-the-badge"/>
   <br/>
